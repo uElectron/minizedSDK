@@ -1,0 +1,2 @@
+This is simple I2C program used to read the Data of Teperature sensor and Accelerometer from LIS2DS12 
+of ST micro which is used in Minized Board
